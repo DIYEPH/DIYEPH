@@ -18,13 +18,13 @@
 ## 📫 How to reach me:
 
 <p align="center">
-  <a href="https://www.facebook.com/" target="_blank">
+  <a href="https://www.facebook.com/diyeph" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
   </a>
   <a href="https://github.com/DIYEPH">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:dinhyenphan@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
@@ -40,17 +40,3 @@
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </p>
-
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIYEPH&bg_color=FFFFFF00&layout=compact" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=DIYEPH&bg_color=FFFFFF00&show_icons=true&count_private=true&include_all_commits=true" width="100%"/>
-    </td>
-    <td>
-      <p align="center">
-        <img src="images/coding.gif"/>
-      </p>
-    </td>
-  </tr>
-</table>
