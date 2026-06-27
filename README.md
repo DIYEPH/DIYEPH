@@ -3,7 +3,7 @@
   <img src="images/helloworld.gif" width="400" height="300" />
 </p>
 
-<h3 align="center">&lt; Software Engineer + AI Enthusiast /&gt;</h3>
+<h3 align="center">&lt; Software Engineer/&gt;</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DIYEPH" alt="DIYEPH" />
